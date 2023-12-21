@@ -1,3 +1,4 @@
+# jiwer is package that calculates word error rate (WER) match error rate (MER) word information lost (WIL) word information preserved (WIP) character error rate (CER)
 import whisper
 import os
 import jiwer
